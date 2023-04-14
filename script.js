@@ -20,8 +20,8 @@ const account1 = {
     "2022-09-16T23:36:17.929Z",
     "2022-09-17T10:51:36.790Z",
   ],
-  currency: "EUR",
-  locale: "en-GB", //
+  currency: "USD",
+  locale: "en-US", //
 };
 
 const account2 = {
